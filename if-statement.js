@@ -7,4 +7,4 @@ if(fruit.length>5)
 else
 {
 	console.log("The fruit name has five characters or less");
-}
+}git 
